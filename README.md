@@ -1,2 +1,2 @@
-# Trick-the-theif-AI-game
-Trick the theif AI based text game
+# Trick-the-thief-AI-game
+Trick the thief AI based text game
